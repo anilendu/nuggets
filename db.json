@@ -1,8 +1,8 @@
 {
   "nuggets": [
-    { "name": "ADX_I.202006190001.tar.gz"},
-    { "name": "ADX_I.202006190002.tar.gz"},
-    { "name": "ADX_I.202006190003.tar.gz"}
+    { "date":"18/06/2020", "name": ["ADX_I.202006190001.tar.gz","ADX_I.202006190002.tar.gz"]},
+     { "date":"11/06/2020", "name": ["ADX_I.202006190011.tar.gz","ADX_I.202006190012.tar.gz"]},
+  
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
